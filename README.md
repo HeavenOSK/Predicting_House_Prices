@@ -1,1 +1,2 @@
 # Predicting_House_Prices
+線形回帰で家の市場価格を予測する
